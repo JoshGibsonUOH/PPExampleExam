@@ -1,0 +1,14 @@
+C:\Users\Josh\Desktop\PPExamExample\bin\Debug\net8.0\PPExamExample.exe
+C:\Users\Josh\Desktop\PPExamExample\bin\Debug\net8.0\PPExamExample.deps.json
+C:\Users\Josh\Desktop\PPExamExample\bin\Debug\net8.0\PPExamExample.runtimeconfig.json
+C:\Users\Josh\Desktop\PPExamExample\bin\Debug\net8.0\PPExamExample.dll
+C:\Users\Josh\Desktop\PPExamExample\bin\Debug\net8.0\PPExamExample.pdb
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.AssemblyInfo.cs
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.dll
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\refint\PPExamExample.dll
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.pdb
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\PPExamExample.genruntimeconfig.cache
+C:\Users\Josh\Desktop\PPExamExample\obj\Debug\net8.0\ref\PPExamExample.dll
